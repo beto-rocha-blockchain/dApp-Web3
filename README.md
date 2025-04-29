@@ -6,8 +6,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=ethereum&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat&logo=metamask&logoColor=white)
-<img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" alt="MetaMask" width="24" style="vertical-align:middle;" />
-<span>MetaMask</span>
 
  
 Aplicativo descentralizado (dApp) desenvolvido com foco na simplicidade e integração Web3. Este projeto permite interações com a blockchain Ethereum diretamente do navegador, utilizando MetaMask e a biblioteca Web3.js.
